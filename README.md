@@ -4,7 +4,7 @@ This is Ankit Akash.
 
 
 
-Need problem sloution programs which comes unnder data structures and algorithms.
+Need problem sloution programs which comes under data structures and algorithms.
 
 
 
