@@ -13,7 +13,7 @@ Just add file name of what you are going to program.
 
 
 
-Suppose I am going to program for sorting in c,so my file name will be sorting.c .
+Suppose I am going to program for linked list in c,so my file name will be linkedlist.c .
 
 
 
