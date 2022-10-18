@@ -8,7 +8,7 @@ struct Node {
 	int data;
 	struct Node* next;
 };
-
+//main func
 int main()
 {
 	struct Node* head = NULL;
