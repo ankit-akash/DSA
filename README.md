@@ -17,7 +17,7 @@ Suppose I am going to program for linked list in c,so my file name will be linke
 
 
 
-This is totally for the hacktoberfest pull request,so feel free to submit 2 pull requests as 2 will be added.
+This is totally for the hacktoberfest pull request,so feel free to submit 2 pull requests as you can make 2 pull request in same repository.
 
 
 
