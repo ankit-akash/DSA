@@ -17,6 +17,10 @@ Suppose I am going to program for linked list in c,so my file name will be linke
 
 
 
+This is totally for the hacktoberfest pull request,so feel free to submit 2 pull requests as 2 will be added.
+
+
+
 
 For reference these are the topics which you can start of with.
 ![dsa](https://user-images.githubusercontent.com/75488501/195944951-8122d139-ba1e-4e9e-8d92-387ea0d04778.png)
