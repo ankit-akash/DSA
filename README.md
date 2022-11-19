@@ -17,7 +17,7 @@ This is **Ankit Akash**.
 
 
 
-* This is totally for the hacktoberfest pull request,so feel free to submit 2 pull requests as you can make 2 pull request in same repository.
+* This is totally for the hacktoberfest ,so feel free to submit atleast 2 pull requests.
 
 
 
