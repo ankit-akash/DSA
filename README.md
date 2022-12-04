@@ -9,7 +9,7 @@ This is **Ankit Akash**.
 
 
 
-* Just add file name of what you are going to program.
+* Add file names of what you are going to program.
 
 
 
